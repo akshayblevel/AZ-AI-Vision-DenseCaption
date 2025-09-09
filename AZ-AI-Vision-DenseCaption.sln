@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZ-AI-Vision-DenseCaption", "AZ-AI-Vision-DenseCaption\AZ-AI-Vision-DenseCaption.csproj", "{26407079-926D-4376-BBDE-06B9ECF3FA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26407079-926D-4376-BBDE-06B9ECF3FA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26407079-926D-4376-BBDE-06B9ECF3FA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26407079-926D-4376-BBDE-06B9ECF3FA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26407079-926D-4376-BBDE-06B9ECF3FA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F244D702-19E5-469B-8256-2A39EF5A2404}
+	EndGlobalSection
+EndGlobal
